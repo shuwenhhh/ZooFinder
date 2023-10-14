@@ -1,9 +1,9 @@
-# ZooSeeker
+# ZooFinder
 
-App developed for the San Diego Zoo in UCSD CSE 110. Visitors can use the app to create lists of landmarks at the zoo and get real-time directions to each exhibit.
+App developed for the Boston Zoo. Visitors can use the app to create lists of landmarks at the zoo and get real-time directions to each exhibit.
 
 # Route Planning
-The ZooSeeker home screen features a list of all exhibits at the San Diego zoo. Add and search for exhibits to visit, then tap **Get Directions** to start navigation.
+The ZooFinder home screen features a list of all exhibits at the San Diego zoo. Add and search for exhibits to visit, then tap **Get Directions** to start navigation.
 **Back** will return to the home screen, **Show List** will display all selected locations once at least one exhibit is selected, and **Clear** will clear the current list. **Get directions** will begin the navigation process.
 
 Home Screen:
@@ -27,7 +27,7 @@ Clear List:
 ![Clear List](https://github.com/HuangMichael94/ZooSeeker/blob/main/images/ClearList.PNG?raw=true)
 
 # Navigation
-ZooSeeker will automatically calculate the recommended path to all selected exhibits which minimizes walking distance and provide a route summary. **Back** will return to the previous navigation screen, **Next** will advance to the next destination, and **Skip** will skip the next exhibit on the list. Brevity of directions can be toggled with **Brief** and **Detailed** on the top right.
+ZooFinder will automatically calculate the recommended path to all selected exhibits which minimizes walking distance and provide a route summary. **Back** will return to the previous navigation screen, **Next** will advance to the next destination, and **Skip** will skip the next exhibit on the list. Brevity of directions can be toggled with **Brief** and **Detailed** on the top right.
 
 Route Summary:
 
